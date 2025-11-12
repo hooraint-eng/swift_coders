@@ -8,4 +8,4 @@ We will then compare the users guess list to the correct answer list.
 If the user is not able to guess correct in 20 tries, he will loss.
 If he guesses it within the 20 tries, he wins, and breaks out of the funtion.
 If the color in the user's list is the same color and in same order as the correct list, then the user wins breaks out of the funtion.
-If the user does not guess correct in the first try, the funtion continues and the user can guess again.
+If the user does not guess correct in the first try, the funtion continues and the user can guess again  
