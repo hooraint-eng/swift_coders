@@ -1,4 +1,3 @@
-# swift_coders
 We will have the user guess correct color in order. 
 We will creat a list that will include four colors.
 We'll begin by creating an empty list and ask the user to guess the first color.
