@@ -25,6 +25,7 @@ with open ("family_size.csv","r") as csvfile:
         total = sum(value)
         
         total_family_member[name]= total
+      
         
     for person_name, total in total_family_member.items():
             
